@@ -1,0 +1,6 @@
+@media (max-width: 375px) {
+    #defaultCanvas0{
+        width: 300px !important; 
+        height: 200px !important;
+    }
+}
